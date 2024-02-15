@@ -55,7 +55,7 @@ class _ProfileTabScreenState extends State<ProfileTabScreen> {
                       ),
                       vSpacing(5),
                       Text(
-                        " xyz@gmail.com",
+                        "xyz@gmail.com",
                         style: ProjectProperty.fontFactory.robotoStyle.copyWith(
                           fontWeight: FontWeight.w400,
                           fontSize: 15,
